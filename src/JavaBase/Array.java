@@ -21,7 +21,7 @@ public class Array {
 		 System.out.println(i[1]);
 		 System.out.println(i[2]);
 		 System.out.println(i.length);
-		 
+		 /////////
 		 //print all the values
 		 for (int j=0;j<i.length;j++)
 		 {
