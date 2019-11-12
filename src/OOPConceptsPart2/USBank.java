@@ -12,8 +12,7 @@ public interface USBank {
 	// no method body
 	// in interface we can declare variable, and variables are static by deafault
 	// vars value will not be changed , its final/constant in nature
-	// no static methods in interafce
-	// no main method in interface
+	// static methods are allowed in JAVA1.8
 	// we cannot  create the object of the interface
 	// interface abstract in nature
 }
