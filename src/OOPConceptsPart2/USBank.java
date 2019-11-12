@@ -10,7 +10,7 @@ public interface USBank {
 	
 	// only method signature
 	// no method body
-	// in interface we can declare variable, and variables are statis by deafault
+	// in interface we can declare variable, and variables are static by deafault
 	// vars value will not be changed , its final/constant in nature
 	// no static methods in interafce
 	// no main method in interface
